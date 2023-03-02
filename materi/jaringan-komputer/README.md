@@ -14,4 +14,4 @@
 
 # 🚀 List Materi
 
-1.  [**Perkenalan Jaringan Komputer**](#) - [_Tugas_]() - 1 Maret 2023 - 8 March 2023, _16:00_ WIB
+1.  [**Perkenalan Jaringan Komputer**](/materi/jaringan-komputer/week-2/) - [_Tugas_](https://github.com/Code-Knights/campus/issues/1) - 1 Maret 2023 - 8 March 2023, _16:00_ WIB
