@@ -14,6 +14,7 @@ Code-Knights is a project that aims to provide a platform for students to learn 
   - [Jaringan Komputer](./materi/jaringan-komputer)
   - [Pemrograman WEB](./materi/pemrograman-web)
   - [Statistik](./materi/statistik)
+  - [Kecerdasan Buatan](./materi/kecerdasan-buatan)
   - [Praktikum Pengolahan Citra Digital](./materi/praktikum-pengolahan-citra-digital)
   - [Praktikum Pemrograman WEB](./materi/praktikum-pemrograman-web)
   - [Praktikum Jaringan Komputer](./materi/praktikum-jaringan-komputer)
