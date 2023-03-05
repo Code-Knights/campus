@@ -1,10 +1,10 @@
 ## Jadwal Mata Kuliah
 
-### Mata Kuliah: Pemograman Web
+### Mata Kuliah: Praktikum Jaringan Komputer
 
 - SKS: 3
 - Semester: 4
-- Dosen: Pak Fandy
+- Dosen: Pak 
 
 ### Jadwal Kuliah
 
