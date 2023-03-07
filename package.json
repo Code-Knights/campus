@@ -52,11 +52,11 @@
             },
             {
               "type": "chore",
-              "section": "🎓 Homework"
+              "section": "Homework and chores"
             },
             {
               "type": "`docs`",
-              "section": "Documentation"
+              "section": "Documentation only changes"
             },
             {
               "type": "style",
