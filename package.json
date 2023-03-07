@@ -1,6 +1,6 @@
 {
   "name": "campus",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Code-Knights is a project that aims to provide a platform for students to learn and practice programming. It is a web application that allows users to create and solve programming problems. The problems are divided into categories and difficulty levels. Users can also create their own problems and share them with others. The application also provides a forum where users can discuss problems and share their solutions.",
   "main": "index.js",
   "scripts": {
