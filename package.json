@@ -7,7 +7,6 @@
     "release": "dotenv release-it --",
     "release:2": "set /p GITHUB_TOKEN=Enter your GitHub token: && set \"GITHUB_TOKEN=%GITHUB_TOKEN%\" && release-it",
     "commit": "cz",
-    "release:beta": "dotenv release-it -- --preRelease=beta",
     "prettier": "prettier --write ."
   },
   "repository": {
