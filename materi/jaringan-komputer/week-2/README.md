@@ -68,4 +68,4 @@ Terdapat dua tipe utama dalam jaringan yaitu :
   Pada jaringan tipe ini semua komputer berkedudukan sama, dapat bertindak sebagai sebuah PC client (information requestor) maupun PC server (information provider).
 - `Client Server`
   - Pada jaringan tipe ini terdapat sebuah PC server yang berfungsi untuk mengatur, dan membagikan informasi kesetiap PC client yang terhubung dengannya.
-  - `Server (pelayan)` menyediakan sarana untuk` client (pemakai jasa)` untuk mengambil data, sharing perangkat keras dan mengkonfigurasi security pada suatu jaringan.
+- `Server (pelayan)` menyediakan sarana untuk` client (pemakai jasa)` untuk mengambil data, sharing perangkat keras dan mengkonfigurasi security pada suatu jaringan.
