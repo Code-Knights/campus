@@ -44,23 +44,23 @@
           "types": [
             {
               "type": "`feat`",
-              "section": "✨ Features"
+              "section": "✨ Penambahan"
             },
             {
               "type": "`fix`",
-              "section": "🐛 Bug Fixes"
+              "section": "🐛 Perbaikan"
             },
             {
-              "type": "chore",
-              "section": "Homework and chores"
+              "type": "`chore`",
+              "section": "🎓 Tugas and chores"
             },
             {
               "type": "`docs`",
-              "section": "Documentation only changes"
+              "section": "Documentation"
             },
             {
               "type": "style",
-              "hidden": true
+              "section": "🎉 Tugas Selesai"
             },
             {
               "type": "refactor",
@@ -73,6 +73,10 @@
             {
               "type": "test",
               "hidden": true
+            },
+            {
+              "type": "done",
+              "section": "🎉 Tugas Selesai"
             }
           ],
           "releaseCount": 1,
