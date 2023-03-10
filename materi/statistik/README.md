@@ -1,6 +1,6 @@
 ## Jadwal Mata Kuliah
 
-### Mata Kuliah: Pemograman Web
+### Mata Kuliah: Statistik
 
 - SKS: 3
 - Semester: 4
