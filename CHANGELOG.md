@@ -1,5 +1,12 @@
 
 
+## [0.2.0](https://github.com-github-study/Code-Knights/campus/compare/0.1.0...0.2.0) (2023-03-14)
+
+
+### 🎉 Tugas Selesai
+
+* **interaksi:** `Done` Tugas interaksi ([d4e6143](https://github.com-github-study/Code-Knights/campus/commit/d4e614301a28fae90c95fd9d3675abc484c5b596)), closes [#2](https://github.com-github-study/Code-Knights/campus/issues/2)
+
 ## 0.1.0 (2023-03-07)
 
 
